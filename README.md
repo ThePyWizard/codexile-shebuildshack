@@ -1,7 +1,7 @@
 # codexile-shebuildshack
 
 Project Title
-A brief description of your project.
+To Help People
 
 Getting Started
 Instructions on how to set up the development environment and how to start using the project.
